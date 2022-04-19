@@ -1,2 +1,2 @@
 # tindog- meet dogs online website project
-built with the use of Bootstrap
+Simple responsive website built with the use of Bootstrap
